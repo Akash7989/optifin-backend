@@ -1,0 +1,8 @@
+.venv
+.env
+tests
+.pytest_cache
+.coverage
+htmlcov
+**/__pycache__
+data/nav_cache.json

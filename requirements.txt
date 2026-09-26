@@ -1,10 +1,7 @@
 fastapi
 uvicorn
 numpy
-scipy
 pydantic>=2.0
 google-genai
-pytest
-pytest-cov
 httpx
 python-dotenv
